@@ -1,5 +1,4 @@
-Hi, I'm James Fisher. I'm an aspiring geospatial software developer with interests in leveraging satellite and UAS (drone) data for risk modeling, surface hydrology, and remote sensing applications. 
-Please check back frequently as I build out this GitHub page with a variety of GIS and image processing software. 
+A Geospatial Data Engineer with interests in leveraging satellite. UAV (drone). and point cloud data in 3-D structure-from-motion, image processing/recognition, change detection, and machine learning. 
 
 Thank you for visiting!
 - James
